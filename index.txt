@@ -1,0 +1,3 @@
+main - sample code for integrating css and images
+
+patch - 1 - myshop - an E-commerce website.
